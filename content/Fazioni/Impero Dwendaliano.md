@@ -1,7 +1,10 @@
 ---
 title: Impero Dwendaliano
 description: Nazione autoritaria e militarista a ovest di Xhorhas
-tags: [lore, fazioni, geografia]
+tags:
+  - lore
+  - fazioni
+  - geografia
 ---
 
 # Impero Dwendaliano
