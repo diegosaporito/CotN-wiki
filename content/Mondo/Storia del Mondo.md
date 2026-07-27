@@ -10,7 +10,11 @@ Exandria è un mondo antico, segnato da ere di creazione e distruzione. Per capi
 
 ## La Fondazione
 
-Agli albori del mondo, le Divinità Prime crearono Exandria e i popoli che la abitano. Ma le Divinità Traditrici si ribellarono, cercando di soggiogare il mondo e i mortali. Questa tensione durò ere, finché non esplose nella guerra più devastante che Exandria abbia mai conosciuto.
+Secondo il mito più diffuso — non l'unico che si racconta a Exandria, ma il più condiviso — gli dèi giunsero da oltre l'etere in un mondo già esistente ma informe, fatto solo di fuoco e roccia ribollente. Videro in quel caos il potenziale per qualcosa di più, e diedero vita ai primi popoli — elfi, nani, umani e molti altri — insegnando loro le prime magie divine per aiutarli a domare una terra ostile.
+
+Sotto la superficie, però, vivevano già i Primordiali: antichi titani elementali che consideravano quel mondo cosa loro. Quando si ridestarono per spazzare via i nuovi popoli, gli dèi si divisero: alcuni, disperati o assetati di potere, si allearono al caos e sprofondarono nella corruzione — dando origine ai primi inferi. Altri restarono al fianco delle proprie creazioni, insegnando loro a difendersi anche senza l'aiuto diretto degli dèi.
+
+Solo eoni più tardi un'ulteriore frattura divise gli dèi in due schieramenti contrapposti — le Divinità Prime e le Divinità Traditrici — la premessa della guerra che sarebbe esplosa nella Calamità.
 
 Consultate il [[Pantheon]] per l'elenco completo delle divinità.
 

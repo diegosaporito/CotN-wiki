@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Call of the Netherdeep — Wiki della Campagna
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: it-IT
   baseUrl: diegosaporito.github.io/CotN-wiki
   ignorePatterns:
     - private
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Fraunces
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f2ead9"
+        lightgray: "#e3d6bd"
+        gray: "#b5a68c"
+        darkgray: "#4a4038"
+        dark: "#2a2530"
+        secondary: "#a4314f"
+        tertiary: "#8a6d1f"
+        highlight: rgba(164, 49, 79, 0.1)
+        textHighlight: "#e8c65b88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#161320"
+        lightgray: "#242032"
+        gray: "#5c5468"
+        darkgray: "#cfc7d6"
+        dark: "#f2ecfb"
+        secondary: "#c8567a"
+        tertiary: "#d9b45c"
+        highlight: rgba(200, 86, 122, 0.12)
+        textHighlight: "#d9b45c66"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -111,7 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
