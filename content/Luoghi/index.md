@@ -7,8 +7,3 @@ tags: [lore, geografia]
 # Luoghi
 
 Il mondo di Exandria è diviso in quattro continenti principali conosciuti. La nostra campagna si svolge soprattutto a [[Luoghi/Wildemount/index|Wildemount]], ma le altre terre sono spesso citate e fanno parte della cultura comune di chi vive in questo mondo.
-
-- [[Luoghi/Wildemount/index|Wildemount]] — dove si svolge la nostra storia, con [[Luoghi/Wildemount/Xhorhas/index|Xhorhas]]
-- [[Tal'Dorei]]
-- [[Marquet]]
-- [[Issylra]]

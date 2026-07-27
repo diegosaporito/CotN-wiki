@@ -7,6 +7,3 @@ tags: [lore, fazioni]
 # Fazioni
 
 Le principali nazioni che si contendono Xhorhas e dintorni.
-
-- [[Dinastia Kryn]]
-- [[Impero Dwendaliano]]
