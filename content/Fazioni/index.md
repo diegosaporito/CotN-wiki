@@ -6,4 +6,4 @@ tags: []
 
 # Fazioni
 
-Le principali nazioni che si contendono Xhorhas e dintorni.
+Le fazioni e i poteri politici e militari della campagna — nazioni, eserciti, organizzazioni.
