@@ -1,7 +1,7 @@
 ---
 title: Tal'Dorei
 description: Continente a ovest di Wildemount
-tags: [lore, geografia, location]
+tags: [luogo]
 ---
 
 # Tal'Dorei

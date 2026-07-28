@@ -1,7 +1,7 @@
 ---
 title: Fazioni
 description: Le nazioni e i poteri politici della campagna
-tags: [lore, fazioni]
+tags: []
 ---
 
 # Fazioni

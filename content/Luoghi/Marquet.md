@@ -1,7 +1,7 @@
 ---
 title: Marquet
 description: Continente desertico a sudovest di Wildemount
-tags: [lore, geografia, location]
+tags: [luogo]
 ---
 
 # Marquet

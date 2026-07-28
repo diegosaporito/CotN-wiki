@@ -1,7 +1,7 @@
 ---
 title: Luoghi
 description: Geografia di Exandria — continenti, regioni e città della campagna
-tags: [lore, geografia]
+tags: []
 ---
 
 # Luoghi

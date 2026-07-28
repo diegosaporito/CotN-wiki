@@ -1,7 +1,7 @@
 ---
 title: Xhorhas
 description: La regione di Wildemount dove ha inizio la campagna
-tags: [lore, geografia, location]
+tags: [luogo]
 aliases: [Xhorhas]
 ---
 

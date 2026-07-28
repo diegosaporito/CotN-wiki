@@ -1,7 +1,7 @@
 ---
 title: Storia del Mondo
 description: La Fondazione, la Calamità e la Divergenza
-tags: [lore, storia]
+tags: [storia]
 ---
 
 # La storia del mondo in breve

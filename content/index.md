@@ -1,9 +1,6 @@
 ---
 title: Homepage
 description: Wiki di riferimento per i giocatori di Call of the Netherdeep
-tags:
-  - wiki
-  - indice
 ---
 
 # Call of the Netherdeep — Wiki della Campagna
@@ -20,3 +17,6 @@ Wiki di riferimento per i giocatori: lore, luoghi, fazioni e divinità del mondo
 - [[Mondo/index|Mondo]] — storia, cosmologia, divinità
 - [[Luoghi/index|Luoghi]] — continenti, regioni e città
 - [[Fazioni/index|Fazioni]] — le nazioni della campagna
+- [[NPC/index|NPC]] — i personaggi non giocanti incontrati
+- [[Personaggi/index|Personaggi]] — il gruppo
+- [[Cronaca/index|Cronaca]] — il diario delle sessioni

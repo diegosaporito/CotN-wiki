@@ -1,7 +1,7 @@
 ---
 title: Issylra
 description: Il continente più antico conosciuto di Exandria
-tags: [lore, geografia, location]
+tags: [luogo]
 ---
 
 # Issylra

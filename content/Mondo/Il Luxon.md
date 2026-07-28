@@ -1,7 +1,7 @@
 ---
 title: Il Luxon
 description: La divinità ufficiale della Dinastia Kryn e il rituale della Successione
-tags: [lore, religione, meccaniche]
+tags: [divinita, regola]
 ---
 
 # Il Luxon

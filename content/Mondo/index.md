@@ -1,7 +1,7 @@
 ---
 title: Mondo
 description: Storia, cosmologia e divinità di Exandria
-tags: [lore]
+tags: []
 ---
 
 # Mondo

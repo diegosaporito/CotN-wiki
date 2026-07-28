@@ -1,7 +1,7 @@
 ---
 title: Pantheon di Exandria
 description: Glossario delle divinità — Divinità Prime e Traditrici
-tags: [lore, religione, glossario]
+tags: [divinita]
 ---
 
 # Glossario delle Divinità
