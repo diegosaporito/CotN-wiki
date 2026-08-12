@@ -1,8 +1,10 @@
 ---
 title: Dinastia Kryn
 description: La nazione dominante a Xhorhas, fondata da Leylas Kryn
-tags: [fazione]
-aliases: [Dinastia Kryn]
+tags:
+  - fazione
+aliases:
+  - Dinastia Kryn
 ---
 
 # Dinastia Kryn

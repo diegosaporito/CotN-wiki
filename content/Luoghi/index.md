@@ -7,3 +7,6 @@ tags: []
 # Luoghi
 
 Il mondo di Exandria è diviso in quattro continenti principali conosciuti. La nostra campagna si svolge soprattutto a [[Luoghi/Wildemount/index|Wildemount]], ma le altre terre sono spesso citate e fanno parte della cultura comune di chi vive in questo mondo.
+
+![[mappa-exandria-orientale.jpg]]
+*Mappa di Exandria*

@@ -7,6 +7,10 @@ aliases: [Wildemount]
 
 # Wildemount
 
+![[mappa-wildemount.jpg]]
+*Mappa del continente di Wildemount*
+
+
 Il continente dove si svolge la nostra storia. È una terra geograficamente molto varia, divisa in quattro macro-regioni.
 
 A ovest, lungo la costa tropicale, si trova la Costa del Serraglio (Menagerie Coast), governata dal Concordato di Clovis — una repubblica di città-stato nota per commerci, arti e una cultura vivace, insidiata però dal sindacato criminale Miriade e dai pirati della Baldoria (the Revelry).
