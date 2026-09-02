@@ -16,7 +16,7 @@ Guidati dallo scout [[Morgid]], i personaggi si addentrano nella [[Palude di Bro
 
 - Il martello da guerra di [[Rochiu]] si rivela nascosto dentro un blocco di roccia, scambiato inizialmente per una spada
 - Il bluff di [[Neshar Vaelis|Neshar]] con una "voce da drago" per intimidire i nemici
-- Ira della Tempesta e Fiamma Sacra di Ron chiudono uno dei lucertoloidi in un colpo solo
+- Ron durante il combattimento usa incantesimi come Benedizione, Fiamma Sacra e Ira della Tempesta, rivelando quindi di essere un chierico
 - Nel dopo-battaglia, [[Rochiu]] si scusa con Ron per gli insulti detti mentre era in preda all'Ira, e Ron lo consola
 
 ## Bottino
