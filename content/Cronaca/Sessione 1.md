@@ -14,9 +14,9 @@ Guidati dallo scout [[Morgid]], i personaggi si addentrano nella [[Palude di Bro
 
 ## Momenti memorabili
 
-- Il martello da guerra di [[Rochiu]] si rivela nascosto dentro un blocco di roccia, scambiato inizialmente per una spada
+- Il martello da guerra di [[Rochiu]] si rivela nascosto dentro un blocco di roccia, scambiato inizialmente per una spada; entra in Ira, rivelando di essere un barbaro
 - Il bluff di [[Neshar Vaelis|Neshar]] con una "voce da drago" per intimidire i nemici
-- Ron durante il combattimento usa incantesimi come Benedizione, Fiamma Sacra e Ira della Tempesta, rivelando quindi di essere un chierico
+- Ron durante il combattimento usa incantesimi come Benedizione e Fiamma Sacra e Ira della Tempesta, rivelando quindi di essere un chierico
 - Nel dopo-battaglia, [[Rochiu]] si scusa con Ron per gli insulti detti mentre era in preda all'Ira, e Ron lo consola
 
 ## Bottino
