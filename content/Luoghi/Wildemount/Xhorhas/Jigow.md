@@ -19,3 +19,7 @@ I cittadini tendono a essere competitivi e amicizie e rivalità sono piuttosto c
 ## Il Festival del Merito
 
 A Jigow ogni occasione di mostrare una qualche abilità fisica, sociale o intellettuale è sempre ben accolta — e non c'è nessuna opportunità migliore dell'annuale Festival del Merito. In questo giorno vengono indette sfide amichevoli (a volte non così tanto amichevoli) tra i residenti: ogni spazio pubblico si riempie di giochi, cibo e bancarelle, e molti negozi e abitazioni private spalancano le proprie porte per prendere parte a questa incasinatissima festa.
+
+## Nella campagna
+
+Il gruppo è arrivato a Jigow nella [[Sessione 4]], la sera prima dell'inizio del Festival del Merito.

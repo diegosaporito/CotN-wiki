@@ -26,5 +26,5 @@ Guidati dallo scout [[Morgid]], i personaggi si addentrano nella [[Palude di Bro
 
 ## Domande aperte
 
-- Dove si trova Bol'bara, e in che condizioni?
+- Dove si trova Bol'bara, e in che condizioni? *(Risolta nella [[Sessione 4]].)*
 - Cosa nasconde davvero il martello-nella-roccia di Rochiu?
