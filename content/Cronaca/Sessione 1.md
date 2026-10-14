@@ -6,11 +6,11 @@ tags: [sessione]
 
 # Sessione 1: L'udienza di Buhfal II e il Cimitero Sommerso
 
-*Folsen, Brussendar 1° 835 P.D. — [[Urzin]] → [[Palude di Brokenveil]] (Cimitero Sommerso)*
+*Folsen, Brussendar 1° 835 P.D. — [[Urzin]] → [[Xhorhas/Palude di Brokenveil/index|Palude di Brokenveil]] (Cimitero Sommerso)*
 
 Il gruppo viene convocato a un'udienza con [[Buhfal II]], il signore ogre di [[Urzin]]. Buhfal chiede aiuto per ritrovare [[Bol'bara]], la sua consigliera, probabilmente rapita da soldati Dwendaliani nei pressi delle Rupi di Brokenveil. In cambio promette 200 monete d'oro.
 
-Guidati dallo scout [[Morgid]], i personaggi si addentrano nella [[Palude di Brokenveil]] e subiscono un'imboscata al Cimitero Sommerso da parte di tre lucertoloidi e della loro sciamana, Skr'a S'orsk. Il gruppo ha la meglio.
+Guidati dallo scout [[Morgid]], i personaggi si addentrano nella [[Xhorhas/Palude di Brokenveil/index|Palude di Brokenveil]] e subiscono un'imboscata al Cimitero Sommerso da parte di tre lucertoloidi e della loro sciamana, Skr'a S'orsk. Il gruppo ha la meglio.
 
 ## Momenti memorabili
 

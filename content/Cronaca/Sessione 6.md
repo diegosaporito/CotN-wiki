@@ -6,7 +6,7 @@ tags: [sessione]
 
 # Sessione 6: Gran finale del Festival del Merito
 
-*Whelsen, Brussendar 20°, 835 P.D. — [[Jigow]] e [[Grotta Smeraldo]] (Isole Nere)*
+*Whelsen, Brussendar 20°, 835 P.D. — [[Xhorhas/Jigow/index|Jigow]] e [[Grotta Smeraldo]] (Isole Nere)*
 
 Il gruppo risolve tutti e tre gli enigmi di Indovinelli e Rime al primo tentativo e ottiene le Medaglie dell'Ingegno.
 

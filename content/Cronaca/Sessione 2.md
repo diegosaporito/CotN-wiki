@@ -6,7 +6,7 @@ tags: [sessione]
 
 # Sessione 2: Il monolito e l'agguato delle arpie
 
-*Yulisen, Brussendar 2° → Da'leysen, Brussendar 3°, 835 P.D. — dalla [[Palude di Brokenveil]] alle Rupi di Brokenveil*
+*Yulisen, Brussendar 2° → Da'leysen, Brussendar 3°, 835 P.D. — dalla [[Xhorhas/Palude di Brokenveil/index|Palude di Brokenveil]] alle Rupi di Brokenveil*
 
 Al campo, [[Ron]] si scusa con [[Rochiu]] per la tensione della sera prima. Nella conversazione emergono alcune origini: [[Vespera Winterjaeger|Vextra]] viene da Cyrengreen, ai piedi delle Montagne Cyrios; Ron da un villaggio vicino a Uthodorn; [[Neshar Vaelis|Neshar]] da Xhorhas, senza specificare dove. Rochiu realizza che Ron è un chierico di Kord — una divinità non autorizzata nell'Impero Dwendaliano.
 

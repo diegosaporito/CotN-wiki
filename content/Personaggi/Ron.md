@@ -10,7 +10,7 @@ tags: [pg]
 
 Nano delle Colline, Chierico del Dominio della Tempesta di Kord. Corporatura robusta, capelli e barba rossi intrecciati con cura, porta un martello sulla schiena.
 
-Nella [[Sessione 1]] ha lanciato Guida ogni giorno di viaggio nella [[Palude di Brokenveil]] per aiutare la navigazione del gruppo.
+Nella [[Sessione 1]] ha lanciato Guida ogni giorno di viaggio nella [[Xhorhas/Palude di Brokenveil/index|Palude di Brokenveil]] per aiutare la navigazione del gruppo.
 
 Nella [[Sessione 2]] ha rivelato di provenire da un villaggio vicino a Uthodorn.
 

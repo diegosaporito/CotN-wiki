@@ -6,9 +6,9 @@ tags: [sessione]
 
 # Sessione 5: Il Festival del Merito
 
-*Grissen, Brussendar 19° → Whelsen, Brussendar 20°, 835 P.D. — [[Jigow]]*
+*Grissen, Brussendar 19° → Whelsen, Brussendar 20°, 835 P.D. — [[Xhorhas/Jigow/index|Jigow]]*
 
-Sotto un sole estivo, il gruppo trascorre a [[Jigow]] la giornata del Festival del Merito e decide di partecipare a tutte le prove. Rochiu rifiuta la Guida di Ron in ogni gara.
+Sotto un sole estivo, il gruppo trascorre a [[Xhorhas/Jigow/index|Jigow]] la giornata del Festival del Merito e decide di partecipare a tutte le prove. Rochiu rifiuta la Guida di Ron in ogni gara.
 
 ## Le prove
 

@@ -6,7 +6,7 @@ tags: [sessione]
 
 # Sessione 4: Bol'bara
 
-*Miresen, Brussendar 4° → Grissen, Brussendar 19°, 835 P.D. — da [[Forte Ventura]] alla [[Pietra Rituale]], poi a [[Urzin]] e [[Jigow]]*
+*Miresen, Brussendar 4° → Grissen, Brussendar 19°, 835 P.D. — da [[Forte Ventura]] alla [[Pietra Rituale]], poi a [[Urzin]] e [[Xhorhas/Jigow/index|Jigow]]*
 
 Il gruppo conclude l'esplorazione di [[Forte Ventura]]: armeria, latrine, tenda del comandante e sala di tortura. Il baule del comandante viene forzato a colpi d'arma. [[Alonne]] viene interrogato e poi liberato: se ne va da solo, rifiutando di unirsi al gruppo.
 
@@ -16,7 +16,7 @@ Al risveglio Bol'bara racconta cos'è successo: è stata torturata per tre giorn
 
 Il viaggio di ritorno verso Urzin dura tre giorni. Durante il tragitto tutti tranne Rochiu contraggono sintomi di indebolimento (fatica, crampi e simili), che scompaiono una volta lasciata la palude. A Urzin il gruppo decide di non rivelare a [[Buhfal II]] né la possessione né la vera natura dei poteri di Bol'bara, raccontandogli solo delle torture. [[Morgid]], scosso dalla rivelazione, mantiene il segreto. Buhfal, inorridito, paga la ricompensa.
 
-Durante il viaggio verso Jigow i frammenti della Pietra Rituale perdono la loro magia e diventano semplici pezzi di roccia. Il gruppo arriva a [[Jigow]] la sera prima dell'inizio del Festival del Merito.
+Durante il viaggio verso Jigow i frammenti della Pietra Rituale perdono la loro magia e diventano semplici pezzi di roccia. Il gruppo arriva a [[Xhorhas/Jigow/index|Jigow]] la sera prima dell'inizio del Festival del Merito.
 
 ## Momenti memorabili
 
