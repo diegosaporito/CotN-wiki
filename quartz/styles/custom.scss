@@ -66,3 +66,20 @@ article .callout[data-callout="note"] {
     text-shadow: none;
   }
 }
+
+// Ritratti di personaggi e NPC: tutti nella stessa cornice quadrata,
+// qualunque sia la dimensione o la proporzione dell'immagine originale.
+// Per cambiare la misura basta modificare `width` qui sotto.
+body[data-slug^="personaggi/" i] article img,
+body[data-slug^="npc/" i] article img {
+  display: block;
+  width: 320px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 20%;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  margin: 0 0 1rem;
+}

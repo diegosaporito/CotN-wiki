@@ -22,4 +22,4 @@ A Jigow ogni occasione di mostrare una qualche abilità fisica, sociale o intell
 
 ## Nella campagna
 
-Il gruppo è arrivato a Jigow nella [[Sessione 4]], la sera prima dell'inizio del Festival del Merito.
+Il gruppo è arrivato a Jigow nella [[Sessione 4]], la sera prima dell'inizio del Festival del Merito. Nella [[Sessione 5]] ha preso parte alle prove del festival. Nella [[Sessione 6]] ha disputato la finale nella [[Grotta Smeraldo]].

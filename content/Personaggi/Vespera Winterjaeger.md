@@ -18,3 +18,5 @@ Nella [[Sessione 2]] ha rivelato di provenire da Cyrengreen, ai piedi delle Mont
 Nella [[Sessione 3]] ha rivelato di essere una Cacciatrice del Sangue, attivando il Rito Cremisi e una Maledizione del Sangue — ferendosi con il proprio stocco per farlo, e rifiutando le cure di Rochiu subito dopo.
 
 Nella [[Sessione 4]] ha chiesto ad [[Alonne]] di ricordare i volti del gruppo. Il suo Rito Cremisi non è passato inosservato: Ron e Rochiu ne hanno parlato tra loro.
+
+Nella [[Sessione 5]] ha vinto la raccolta del riso con Ron e ha guidato con successo le tartarughe giganti insieme a Neshar e Rochiu.

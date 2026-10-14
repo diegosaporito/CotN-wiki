@@ -31,3 +31,5 @@ Durante il viaggio verso Jigow i frammenti della Pietra Rituale perdono la loro 
 - 200 monete d'oro da Buhfal II (50 a testa)
 - 10 lingotti d'argento imperiali, per un valore di circa 250 monete d'oro
 - Un pugnale con manico di corallo (circa 25 monete d'oro)
+- Una lente d'ingrandimento
+- Il libro "Mutanti leggendari del Miskath Strand"
