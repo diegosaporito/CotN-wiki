@@ -44,4 +44,4 @@ Al gruppo manca ancora un'attrazione prima del gran finale. Un bagnante riferisc
 ## Domande aperte
 
 - Cosa succederà alla prova finale, che si terrà stasera alle Isole Nere? *(Risolta nella [[Sessione 6]]: gara a squadre nella [[Grotta Smeraldo]] per recuperare l'Occhio di Smeraldo.)*
-- Cosa farà il gruppo dopo il festival?
+- Cosa farà il gruppo dopo il festival? *(Risolta nella [[Sessione 7]]: su indicazione di Ushru partono per Bazzoxan.)*

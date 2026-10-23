@@ -20,3 +20,5 @@ Nella [[Sessione 3]] ha rivelato di essere una Cacciatrice del Sangue, attivando
 Nella [[Sessione 4]] ha chiesto ad [[Alonne]] di ricordare i volti del gruppo. Il suo Rito Cremisi non è passato inosservato: Ron e Rochiu ne hanno parlato tra loro.
 
 Nella [[Sessione 5]] ha vinto la raccolta del riso con Ron e ha guidato con successo le tartarughe giganti insieme a Neshar e Rochiu.
+
+Nella [[Sessione 7]] ha consigliato di non fare domande in giro sull'amuleto e, dopo cena, è scesa da sola in taverna a osservare, senza notare nulla di particolare. A colazione ha ricordato che le [[Vestigia della Divergenza|Vestigia]] furono date ai campioni degli dèi e hanno tre stati (Dormiente, Risvegliato, Esaltato), e ha messo in dubbio le intenzioni di [[Ushru]]. Seguirà il gruppo verso Bazzoxan "per ora", finché non troverà qualcosa che la stimoli.

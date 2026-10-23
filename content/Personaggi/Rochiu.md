@@ -20,3 +20,5 @@ Nella [[Sessione 4]] ha messo a segno il primo colpo critico della campagna, il 
 Nella [[Sessione 5]] ha rifiutato la Guida di Ron in ogni prova del Festival del Merito. Ha vinto il braccio di ferro battendo una guardia e Maryl, prima di perdere contro [[Maggie Keeneyes]], e la raccolta del riso con Neshar. Ha guidato le tartarughe giganti nonostante tre cadute, ha superato il labirinto e ha vinto il tuffo nell'Ifolon sottraendo la lancia ad [[Ayo Jabe]] in mezzo agli squali.
 
 Nella [[Sessione 6]] è entrato in Ira rivelando la Magia Selvaggia, che ha scatenato vortici necrotici.
+
+Nella [[Sessione 7]] ha insistito per tornare di corsa dalla caverna, perché nessuno pensasse che i due gruppi si fossero accordati per arrivare insieme al traguardo, e all'uscita ha ringraziato a gran voce, da sopra un sasso, una platea quasi inesistente. Vuole partire per Bazzoxan.
