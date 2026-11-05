@@ -27,3 +27,5 @@ La frase resta a metà. I personaggi si sentono disorientati e la pressione dell
 Nella [[Sessione 7]] si è scoperto che Alyxian è apparso in visione anche a [[Ushru]], a cui ha detto: *"Devono trovarmi, quelli della grotta."* Ushru non conosce il suo nome. I personaggi non sanno se sia intrappolato nell'amuleto, si trovi altrove e lo usi come canale, oppure se la visione mostri un altro tempo e non un altro luogo. [[Ron]] pensa che il messaggio sia stato mandato dalla Tessitrice Lunare o dalla Portatrice di Cambiamento.
 
 L'amuleto è stato riconosciuto come [[Vestigia della Divergenza]]: l'Amuleto delle Tre Preghiere.
+
+Nella [[Sessione 8]], ripensando alla visione, il gruppo ha fatto dei tiri di conoscenza: dalla pelle leggermente più scura di Alyxian i personaggi intuiscono che potrebbe venire da [[Marquet]].
