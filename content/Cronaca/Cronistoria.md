@@ -20,5 +20,10 @@ Un registro rapido degli eventi più importanti, giorno per giorno, secondo il [
 | Conthsen, Brussendar 21°, 835 P.D. | Colazione con Ushru: l'amuleto è una [[Vestigia della Divergenza]] e la via porta a Bazzoxan. Mattinata libera per vendere il bottino e fare compere, partenza nel pomeriggio. (Vedi [[Sessione 7]]) |
 | Conthsen, Brussendar 21° (sera), 835 P.D. | Primo giorno di viaggio sulla strada Smeraldo: un carro ribaltato con tre mercanti morti e tre fuochi fatui invisibili; [[Rochiu]] scende a 0 PV. Cremazione dei corpi e accampamento. (Vedi [[Sessione 8]]) |
 | Folsen, Brussendar 22°, 835 P.D. | Secondo giorno di viaggio: sei [[Sentinelle Aurora]] morte e un hezrou che si dissolve sulla strada. Il gruppo prosegue e si accampa. (Vedi [[Sessione 8]]) |
+| Folsen, Brussendar 22° (sera), 835 P.D. | Al campo [[Ron]] prova a risvegliare l'Amuleto delle Tre Preghiere con la preghiera a Kord, senza effetto, e da allora lo porta nascosto sotto i vestiti. (Vedi [[Sessione 9]]) |
+| Yulisen – Da'leysen, Brussendar 23°-24°, 835 P.D. | Due giorni di cammino sulla strada Smeraldo senza intoppi. (Vedi [[Sessione 9]]) |
+| Miresen, Brussendar 25°, 835 P.D. | A metà del percorso, Ruidus piena e rossa scatena un lampo di energia rossa: Ron e [[Rochiu]] sono maledetti per ventiquattr'ore. (Vedi [[Sessione 9]]) |
+| Grissen, Brussendar 26°, 835 P.D. | Imboscata dei banditi al ponte sopra il burrone: [[Vespera Winterjaeger\|Vextra]] si trasforma in forma licantropa davanti al gruppo. I banditi vengono spinti nel burrone o abbattuti; il capo e un altro bandito riescono a fuggire. Il gruppo tiene un cavallo e brucia i cadaveri. (Vedi [[Sessione 9]]) |
+| Whelsen – Conthsen, Brussendar 27°-28°, 835 P.D. | Il gruppo arriva all'incrocio fra la strada Smeraldo e il Sentiero Consacrato, davanti al [[Punto di sosta della Strada Smeraldo]], segnato dal simbolo di Melora. (Vedi [[Sessione 9]]) |
 
 *Questa pagina cresce sessione dopo sessione.*
